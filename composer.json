@@ -17,11 +17,11 @@
         "component": {
             "files": [
                 "build/*.js",
-                "build/*.css",
+                "build/*.css"
 		
             ]
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev"
    
 }
