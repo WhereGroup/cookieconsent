@@ -9,6 +9,19 @@
            
         }
     ],
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "files": [
+                "build/*.js",
+                "build/*.css",
+		
+            ]
+        }
+    }
     "minimum-stability": "dev",
-    "require": {}
+   
 }
